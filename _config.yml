@@ -1,0 +1,27 @@
+title: Ho Say Peng
+description: A personal space for thoughts and projects.
+url: ""
+baseurl: ""
+theme: null
+permalink: /:title/
+
+collections:
+  essays:
+    output: true
+    permalink: /essays/:slug/
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+feed:
+  collections:
+    - essays
+
+exclude:
+  - _legacy_backup
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - node_modules
+
