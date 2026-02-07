@@ -11,14 +11,9 @@ His philosophy of design focuses on simplicity and purity. Rams believed that th
 
 I believe this philosophy can also be applied to life.
 
-Own less but better things.
-
-Own less but better clothes.
-
-Have less but better friends.
-
-Eat less but better food.
-
-Consume less but better content.
-
+Own less but better things.<br>
+Own less but better clothes.<br>
+Have less but better friends.<br>
+Eat less but better food.<br>
+Consume less but better content.<br>
 Do less but better activities.
