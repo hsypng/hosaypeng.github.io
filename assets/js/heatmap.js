@@ -8,7 +8,7 @@
   var YEAR; // derived from data in init()
   var TOTAL_HABITS; // computed from data
   var MONTHS = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
-  var DAY_LABELS = ["", "Mon", "", "Wed", "", "Fri", ""];
+  var DAY_LABELS = ["Mon", "", "Wed", "", "Fri", "", "Sun"];
 
   var data;
   var tooltip;
