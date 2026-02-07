@@ -1,0 +1,12 @@
+---
+layout: default
+title: Habits
+permalink: /habits/
+---
+
+<div class="heatmap-page" id="heatmap-root"></div>
+
+<script>
+  window.__HABITS_DATA__ = {{ site.data.habits | jsonify }};
+</script>
+<script src="{{ '/assets/js/heatmap.js' | relative_url }}"></script>

@@ -1,0 +1,130 @@
+/* Heatmap - GitHub contribution graph style */
+
+:root {
+  --hm-empty: #ebedf0;
+  --hm-green-1: #9be9a8;
+  --hm-green-2: #40c463;
+  --hm-green-3: #30a14e;
+  --hm-green-4: #216e39;
+  --hm-red: #ffcdd2;
+  --hm-future: #ebedf0;
+  --hm-border: #d0d7de;
+  --hm-tooltip-bg: #24292f;
+  --hm-tooltip-text: #ffffff;
+}
+
+[data-theme="dark"] {
+  --hm-empty: #161b22;
+  --hm-green-1: #0e4429;
+  --hm-green-2: #006d32;
+  --hm-green-3: #26a641;
+  --hm-green-4: #39d353;
+  --hm-red: #5c2020;
+  --hm-future: #161b22;
+  --hm-border: #30363d;
+  --hm-tooltip-bg: #6e7681;
+  --hm-tooltip-text: #ffffff;
+}
+
+.heatmap-page {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.heatmap-section {
+  margin-bottom: 32px;
+}
+
+.heatmap-section h2 {
+  font-size: 16px;
+  font-weight: 600;
+  margin: 0 0 8px 0;
+}
+
+.heatmap-section h3 {
+  font-size: 14px;
+  font-weight: 500;
+  margin: 0 0 6px 0;
+  color: var(--text-muted);
+}
+
+.heatmap-container {
+  overflow-x: auto;
+  padding-bottom: 4px;
+}
+
+.heatmap-graph {
+  display: inline-grid;
+  grid-template-rows: auto repeat(7, 13px);
+  grid-auto-columns: 13px;
+  gap: 3px;
+  position: relative;
+}
+
+.heatmap-graph .month-label {
+  font-size: 10px;
+  color: var(--text-muted);
+  line-height: 13px;
+}
+
+.heatmap-graph .day-label {
+  font-size: 10px;
+  color: var(--text-muted);
+  line-height: 13px;
+  text-align: right;
+  padding-right: 4px;
+}
+
+.heatmap-cell {
+  width: 13px;
+  height: 13px;
+  border-radius: 2px;
+  outline: 1px solid rgba(27, 31, 35, 0.06);
+  cursor: pointer;
+  position: relative;
+}
+
+[data-theme="dark"] .heatmap-cell {
+  outline: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.heatmap-cell.level-0 { background-color: var(--hm-empty); }
+.heatmap-cell.level-1 { background-color: var(--hm-green-1); }
+.heatmap-cell.level-2 { background-color: var(--hm-green-2); }
+.heatmap-cell.level-3 { background-color: var(--hm-green-3); }
+.heatmap-cell.level-4 { background-color: var(--hm-green-4); }
+.heatmap-cell.level-red { background-color: var(--hm-red); }
+.heatmap-cell.level-future { background-color: var(--hm-future); }
+
+.heatmap-tooltip {
+  position: fixed;
+  padding: 6px 10px;
+  background: var(--hm-tooltip-bg);
+  color: var(--hm-tooltip-text);
+  font-size: 11px;
+  line-height: 1.4;
+  border-radius: 4px;
+  pointer-events: none;
+  z-index: 1000;
+  white-space: nowrap;
+  display: none;
+}
+
+.heatmap-legend {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  margin-top: 8px;
+  font-size: 11px;
+  color: var(--text-muted);
+}
+
+.heatmap-legend .heatmap-cell {
+  cursor: default;
+}
+
+.heatmap-stats {
+  font-size: 13px;
+  color: var(--text-muted);
+  margin-bottom: 4px;
+}
