@@ -140,6 +140,27 @@
   border-top: 1px solid var(--border-color);
 }
 
+.heatmap-cell.today {
+  outline-width: 2px;
+  outline-style: solid;
+  outline-offset: -1px;
+  z-index: 1;
+}
+
+.heatmap-cell.today.level-0    { outline-color: #959da5; }
+.heatmap-cell.today.level-1    { outline-color: #2ea043; }
+.heatmap-cell.today.level-2    { outline-color: #238636; }
+.heatmap-cell.today.level-3    { outline-color: #196c2e; }
+.heatmap-cell.today.level-4    { outline-color: #0f5323; }
+.heatmap-cell.today.level-red  { outline-color: #da3633; }
+
+[data-theme="dark"] .heatmap-cell.today.level-0    { outline-color: #484f58; }
+[data-theme="dark"] .heatmap-cell.today.level-1    { outline-color: #238636; }
+[data-theme="dark"] .heatmap-cell.today.level-2    { outline-color: #2ea043; }
+[data-theme="dark"] .heatmap-cell.today.level-3    { outline-color: #3fb950; }
+[data-theme="dark"] .heatmap-cell.today.level-4    { outline-color: #56d364; }
+[data-theme="dark"] .heatmap-cell.today.level-red  { outline-color: #da3633; }
+
 .heatmap-category-divider h2 {
   font-size: 18px;
   font-weight: 600;

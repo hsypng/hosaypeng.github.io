@@ -181,6 +181,9 @@
           }
 
           cell.dataset.date = dateStr;
+          if (dateStr === formatDate(today)) {
+            cell.classList.add("today");
+          }
           cell.addEventListener("mouseenter", (function(ds, isFuture) {
             return function(e) {
               var text = isFuture ? ds : tooltipFn(ds);
