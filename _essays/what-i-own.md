@@ -7,7 +7,7 @@ tags:
 ---
 I can't remember when I started being a minimalist. I reckon around 7-8 years ago. Getting rid of almost all my stuff was one of the most liberating experiences of my life, to the point where I felt addicted to the dopamine spike of getting rid of stuff. I recall days back then when I'd sit in my pretty empty room racking my brain on what I can get rid of next.
 
-Like a novice monk seeking Enlightenment, I wanted to ascend from minimalism to extreme minimalism. There is no agreed upon definition of extreme minimalism, but it just means forgoing stuff that even non-extreme minimalists consider essential such as a bed and sofa. Thank god those days are over. While I no longer have the compulsion to throw stuff away, I still want to own lesser things, mainly clothes.
+Like a novice monk seeking Enlightenment, I wanted to ascend from minimalism to extreme minimalism. There is no agreed upon definition of extreme minimalism, but it just means forgoing stuff that even non-extreme minimalists consider essential such as a bed and sofa. Thank god those days are over. While I no longer have the compulsion to throw stuff away, I still want to own lesser things. Minimalism has given me a lightness of being.
 
 This is what I currently own:
 1. Black backpack
@@ -29,37 +29,39 @@ This is what I currently own:
 17. Name card holder + cards
 18. Calculator
 19. Ralph Lauren blue shirt 1x (gift)
-20. Uniqlo floral shirt 1x
-21. Uniqlo cotton white shirt 1x
-22. Uniqlo black cotton t-shirt 2x
-23. Oversized Uniqlo t-shirt 1x
-24. Muji white t-shirt 1x
-25. Tasty Toasties t-shirt 1x
-26. This is not a Ponzi t-shirt 1x
-27. Black singlet 1x
-28. Brown Uniqlo pants 1x
-29. Blue Uniqlo pants 2x
-30. Brown Uniqlo shorts 1x
-31. White Nike run shorts 1x
-32. Black SAF admin shorts 3x
-33. Uniqlo underwear 7x
-34. Socks 3x
-35. Speedo swim shorts
-36. Jacket (bought in Shibuya, Tokyo)
-37. White sneakers
-38. Blue running shoes
-39. Brown formal work shoes 
-40. Tote bag
-41. Foam roller
-42. Weighted vest
-43. Muay Thai boxing gloves
-44. Muay Thai hand wraps 2x
-45. Muay Thai knee pads
-46. Adjustable iPhone stand
-47. Shoe bag
+20. G2000 white shirt 1x
+21. Uniqlo floral shirt 1x
+22. Uniqlo cotton white shirt 1x
+23. Uniqlo black cotton t-shirt 2x
+24. Oversized Uniqlo t-shirt 1x
+25. Muji white t-shirt 1x
+26. Tasty Toasties t-shirt 1x
+27. This is not a Ponzi t-shirt 1x
+28. Black singlet 1x
+29. Brown Uniqlo pants 1x
+30. Blue Uniqlo pants 2x
+31. Brown Uniqlo shorts 1x
+32. White Nike run shorts 1x
+33. Black SAF admin shorts 3x
+34. Uniqlo underwear 7x
+35. Socks 3x
+36. Speedo swim shorts
+37. Jacket (bought in Shibuya, Tokyo)
+38. White sneakers
+39. Blue running shoes
+40. Brown formal work shoes 
+41. Tote bag
+42. Foam roller
+43. Weighted vest
+44. Muay Thai boxing gloves
+45. Muay Thai hand wraps 2x
+46. Muay Thai knee pads
+47. 16kg kettlebell
+48. Adjustable iPhone stand
+49. Shoe bag
+50. Black umbrella
 
-- 3x shirts
+- 4x shirts
 - 6x t-shirts
 - 3x pants
-- 1x shorts (non-sports)
-- 4x shorts (sports)
+- 5x shorts
