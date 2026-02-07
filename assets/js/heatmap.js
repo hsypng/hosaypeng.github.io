@@ -264,7 +264,9 @@
             if (dayData[cat][h]) done++;
           }
         }
-        return dateStr + ": " + done + "/" + total + " (" + pct + "%)";
+        var label = dateStr + ": " + done + "/" + total + " (" + pct + "%)";
+        if (dateStr === formatDate(today) && done < total) label += " (in progress)";
+        return label;
       }
     );
 
@@ -331,7 +333,8 @@
             return function(dateStr) {
               var done = getHabitDone(dateStr, c, h);
               if (done === null) return dateStr + ": No data";
-              return dateStr + ": " + (done ? "Done" : "Missed");
+              if (done) return dateStr + ": Done";
+              return dateStr + ": " + (dateStr === formatDate(today) ? "Pending" : "Missed");
             };
           })(cat, habit)
         );
