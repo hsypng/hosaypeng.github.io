@@ -6,7 +6,7 @@
   "use strict";
 
   var YEAR = 2026;
-  var TOTAL_HABITS = 12;
+  var TOTAL_HABITS; // computed from data
   var MONTHS = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
   var DAY_LABELS = ["", "Mon", "", "Wed", "", "Fri", ""];
 
@@ -20,6 +20,11 @@
 
     today = new Date();
     today.setHours(0, 0, 0, 0);
+
+    TOTAL_HABITS = 0;
+    for (var c in data.categories) {
+      TOTAL_HABITS += data.categories[c].length;
+    }
 
     var container = document.getElementById("heatmap-root");
     if (!container) return;
@@ -285,6 +290,14 @@
     var weeks = getWeeks();
 
     for (var cat in data.categories) {
+      // Category divider
+      var divider = document.createElement("div");
+      divider.className = "heatmap-category-divider";
+      var catTitle = document.createElement("h2");
+      catTitle.textContent = cat;
+      divider.appendChild(catTitle);
+      root.appendChild(divider);
+
       var habits = data.categories[cat];
       for (var hi = 0; hi < habits.length; hi++) {
         var habit = habits[hi];
@@ -295,7 +308,7 @@
         section.className = "heatmap-section";
 
         var title = document.createElement("h3");
-        title.textContent = cat + " - " + habit;
+        title.textContent = habit;
         section.appendChild(title);
 
         createGrid(section, weeks,

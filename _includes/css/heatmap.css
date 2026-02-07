@@ -128,3 +128,15 @@
   color: var(--text-muted);
   margin-bottom: 4px;
 }
+
+.heatmap-category-divider {
+  margin-top: 40px;
+  padding-top: 24px;
+  border-top: 1px solid var(--border-color);
+}
+
+.heatmap-category-divider h2 {
+  font-size: 18px;
+  font-weight: 600;
+  margin: 0 0 16px 0;
+}

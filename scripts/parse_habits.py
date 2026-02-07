@@ -3,14 +3,31 @@
 
 import json
 import re
+import sys
 from pathlib import Path
 
 SCRIPT_DIR = Path(__file__).parent
 REPO_DIR = SCRIPT_DIR.parent
 VAULT_DIR = REPO_DIR.parent
 
-HABITS_MD = VAULT_DIR / "00_Inbox" / "good_habits.md"
 OUTPUT_JSON = REPO_DIR / "_data" / "habits.json"
+
+
+def find_habits_file() -> Path:
+  """Find good_habits.md: CLI arg > search vault."""
+  if len(sys.argv) > 1:
+    p = Path(sys.argv[1])
+    if p.exists():
+      return p
+    print(f"Error: {p} not found")
+    raise SystemExit(1)
+
+  for match in VAULT_DIR.rglob("good_habits.md"):
+    if ".trash" not in match.parts:
+      return match
+
+  print(f"Error: good_habits.md not found in {VAULT_DIR}")
+  raise SystemExit(1)
 
 # Add habit names here to hide their individual heatmaps
 # They'll still count toward the rollup total
@@ -70,11 +87,9 @@ def parse_habits(text: str) -> dict:
 
 
 def main():
-  if not HABITS_MD.exists():
-    print(f"Error: {HABITS_MD} not found")
-    raise SystemExit(1)
-
-  text = HABITS_MD.read_text(encoding="utf-8")
+  habits_md = find_habits_file()
+  print(f"Reading {habits_md}")
+  text = habits_md.read_text(encoding="utf-8")
   data = parse_habits(text)
 
   OUTPUT_JSON.parent.mkdir(parents=True, exist_ok=True)
