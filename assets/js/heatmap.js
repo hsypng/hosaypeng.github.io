@@ -5,7 +5,7 @@
 (function () {
   "use strict";
 
-  var YEAR = 2026;
+  var YEAR; // derived from data in init()
   var TOTAL_HABITS; // computed from data
   var MONTHS = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
   var DAY_LABELS = ["", "Mon", "", "Wed", "", "Fri", ""];
@@ -17,6 +17,11 @@
   function init() {
     data = window.__HABITS_DATA__;
     if (!data) return;
+
+    var dates = Object.keys(data.days);
+    YEAR = dates.length > 0
+      ? Math.max.apply(null, dates.map(function(d) { return parseInt(d.split("-")[0], 10); }))
+      : new Date().getFullYear();
 
     today = new Date();
     today.setHours(0, 0, 0, 0);
