@@ -126,7 +126,7 @@
     graph.className = "heatmap-graph";
 
     var totalCols = weeks.length + 1; // +1 for day labels column
-    graph.style.gridTemplateColumns = "24px repeat(" + weeks.length + ", 13px)";
+    graph.style.gridTemplateColumns = "24px repeat(" + weeks.length + ", 11px)";
 
     // Month labels row
     // Empty cell for day-label column
