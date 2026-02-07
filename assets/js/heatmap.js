@@ -114,9 +114,9 @@
     return dayData[category][habit];
   }
 
-  function rollupLevel(score) {
+  function rollupLevel(score, dateStr) {
     if (score === null) return "future";
-    if (score === 0) return "red";
+    if (score === 0) return (dateStr === formatDate(today)) ? 0 : "red";
     if (score < 0.25) return 1;
     if (score < 0.5) return 2;
     if (score < 0.75) return 3;
@@ -250,7 +250,7 @@
     createGrid(section, weeks,
       function(dateStr) {
         var score = getRollupScore(dateStr);
-        return { level: rollupLevel(score), score: score };
+        return { level: rollupLevel(score, dateStr), score: score };
       },
       function(dateStr) {
         var score = getRollupScore(dateStr);
@@ -326,7 +326,8 @@
             return function(dateStr) {
               var done = getHabitDone(dateStr, c, h);
               if (done === null) return { level: "future" };
-              return { level: done ? 4 : "red" };
+              if (done) return { level: 4 };
+              return { level: dateStr === formatDate(today) ? 0 : "red" };
             };
           })(cat, habit),
           (function(c, h) {
