@@ -181,9 +181,9 @@
           }
 
           cell.dataset.date = dateStr;
-          cell.addEventListener("mouseenter", (function(ds) {
+          cell.addEventListener("mouseenter", (function(ds, isFuture) {
             return function(e) {
-              var text = tooltipFn(ds);
+              var text = isFuture ? ds : tooltipFn(ds);
               if (!text) return;
               tooltip.textContent = text;
               tooltip.style.display = "block";
@@ -191,7 +191,7 @@
               tooltip.style.left = (rect.left + rect.width / 2 - tooltip.offsetWidth / 2) + "px";
               tooltip.style.top = (rect.top - tooltip.offsetHeight - 6) + "px";
             };
-          })(dateStr));
+          })(dateStr, cellDate > today));
           cell.addEventListener("mouseleave", function() {
             tooltip.style.display = "none";
           });
