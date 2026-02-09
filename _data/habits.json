@@ -52,7 +52,7 @@
       "Sleep": {
         "Consistent wake/sleep time": false,
         "Morning sunlight": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": true
       },
       "Diet": {
         "Intermittent fasting": false
