@@ -102,7 +102,7 @@
       "Mental Health": {
         "Breathwork (5-15 min)": false,
         "Nature time (no devices)": false,
-        "Cold exposure": false,
+        "Cold exposure": true,
         "Heat exposure (sauna)": false
       }
     },
