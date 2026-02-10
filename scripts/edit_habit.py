@@ -1,14 +1,18 @@
 #!/usr/bin/env python3
-"""Bulk-edit habits in good_habits.md: add, remove, or rename."""
+"""Bulk-edit habits in all_habits.md: add, remove, or rename."""
 
 import argparse
+import os
 import re
 import sys
 from pathlib import Path
 
 SCRIPT_DIR = Path(__file__).parent
 REPO_DIR = SCRIPT_DIR.parent
-VAULT_DIR = REPO_DIR.parent
+VAULT_DIR = Path(os.environ.get(
+  "OBSIDIAN_VAULT",
+  str(Path.home() / "Library/Mobile Documents/iCloud~md~obsidian/Documents")
+))
 
 DATE_RE = re.compile(r"^### (\d{4}-\d{2}-\d{2})")
 CATEGORY_RE = re.compile(r"^\*\*(.+?)\*\*$")
@@ -16,11 +20,11 @@ CHECKBOX_RE = re.compile(r"^- \[([ xX])\] (.+)$")
 
 
 def find_habits_file() -> Path:
-  """Find good_habits.md by searching the vault."""
-  for match in VAULT_DIR.rglob("good_habits.md"):
+  """Find all_habits.md by searching the vault."""
+  for match in VAULT_DIR.rglob("all_habits.md"):
     if ".trash" not in match.parts:
       return match
-  print(f"Error: good_habits.md not found in {VAULT_DIR}")
+  print(f"Error: all_habits.md not found in {VAULT_DIR}")
   raise SystemExit(1)
 
 
@@ -120,7 +124,7 @@ def get_categories(lines: list[str]) -> set[str]:
 
 
 def main():
-  parser = argparse.ArgumentParser(description="Bulk-edit habits in good_habits.md")
+  parser = argparse.ArgumentParser(description="Bulk-edit habits in all_habits.md")
   parser.add_argument("--dry-run", action="store_true", help="Preview changes without writing")
   sub = parser.add_subparsers(dest="command", required=True)
 

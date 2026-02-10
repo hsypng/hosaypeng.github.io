@@ -1,20 +1,24 @@
 #!/usr/bin/env python3
-"""Parse good_habits.md checkboxes into habits.json for Jekyll."""
+"""Parse all_habits.md checkboxes into habits.json for Jekyll."""
 
 import json
+import os
 import re
 import sys
 from pathlib import Path
 
 SCRIPT_DIR = Path(__file__).parent
 REPO_DIR = SCRIPT_DIR.parent
-VAULT_DIR = REPO_DIR.parent
+VAULT_DIR = Path(os.environ.get(
+  "OBSIDIAN_VAULT",
+  str(Path.home() / "Library/Mobile Documents/iCloud~md~obsidian/Documents")
+))
 
 OUTPUT_JSON = REPO_DIR / "_data" / "habits.json"
 
 
 def find_habits_file() -> Path:
-  """Find good_habits.md: CLI arg > search vault."""
+  """Find all_habits.md: CLI arg > search vault."""
   if len(sys.argv) > 1:
     p = Path(sys.argv[1])
     if p.exists():
@@ -22,11 +26,11 @@ def find_habits_file() -> Path:
     print(f"Error: {p} not found")
     raise SystemExit(1)
 
-  for match in VAULT_DIR.rglob("good_habits.md"):
+  for match in VAULT_DIR.rglob("all_habits.md"):
     if ".trash" not in match.parts:
       return match
 
-  print(f"Error: good_habits.md not found in {VAULT_DIR}")
+  print(f"Error: all_habits.md not found in {VAULT_DIR}")
   raise SystemExit(1)
 
 # Add habit names here to hide their individual heatmaps
