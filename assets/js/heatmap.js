@@ -116,7 +116,7 @@
 
   function rollupLevel(score, dateStr) {
     if (score === null) return "future";
-    if (score === 0) return "red";
+    if (score === 0) return (dateStr === formatDate(today)) ? 0 : "red";
     if (score < 0.25) return 1;
     if (score < 0.5) return 2;
     if (score < 0.75) return 3;
@@ -327,7 +327,7 @@
               var done = getHabitDone(dateStr, c, h);
               if (done === null) return { level: "future" };
               if (done) return { level: 4 };
-              return { level: "red" };
+              return { level: dateStr === formatDate(today) ? 0 : "red" };
             };
           })(cat, habit),
           (function(c, h) {
@@ -335,7 +335,7 @@
               var done = getHabitDone(dateStr, c, h);
               if (done === null) return dateStr + ": No data";
               if (done) return dateStr + ": Done";
-              return dateStr + ": Missed";
+              return dateStr + (dateStr === formatDate(today) ? ": Today" : ": Missed");
             };
           })(cat, habit)
         );
