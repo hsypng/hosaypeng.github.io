@@ -141,25 +141,14 @@
 }
 
 .heatmap-cell.today {
-  outline-width: 2px;
-  outline-style: solid;
-  outline-offset: -1px;
+  outline: 2px solid #1f6feb;
+  outline-offset: 0px;
   z-index: 1;
 }
 
-.heatmap-cell.today.level-0    { outline-color: #959da5; }
-.heatmap-cell.today.level-1    { outline-color: #2ea043; }
-.heatmap-cell.today.level-2    { outline-color: #238636; }
-.heatmap-cell.today.level-3    { outline-color: #196c2e; }
-.heatmap-cell.today.level-4    { outline-color: #0f5323; }
-.heatmap-cell.today.level-red  { outline-color: #da3633; }
-
-[data-theme="dark"] .heatmap-cell.today.level-0    { outline-color: #484f58; }
-[data-theme="dark"] .heatmap-cell.today.level-1    { outline-color: #238636; }
-[data-theme="dark"] .heatmap-cell.today.level-2    { outline-color: #2ea043; }
-[data-theme="dark"] .heatmap-cell.today.level-3    { outline-color: #3fb950; }
-[data-theme="dark"] .heatmap-cell.today.level-4    { outline-color: #56d364; }
-[data-theme="dark"] .heatmap-cell.today.level-red  { outline-color: #da3633; }
+[data-theme="dark"] .heatmap-cell.today {
+  outline-color: #58a6ff;
+}
 
 .heatmap-category-divider h2 {
   font-size: 18px;
