@@ -8,3 +8,4 @@ Gemfile.lock
 _legacy_backup/
 .obsidian/
 
+__pycache__/
