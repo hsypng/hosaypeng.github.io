@@ -15,4 +15,4 @@ Commit and push changes to GitHub.
 6. Verify the push succeeded
 
 Include this line in all commits:
-`Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>`
+`Co-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>`
