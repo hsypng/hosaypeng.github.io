@@ -412,7 +412,7 @@
       },
       "Discipline": {
         "Intermittent fasting (16:8)": false,
-        "No caffeine after 2pm": false,
+        "No caffeine after 2pm": true,
         "Focused work (6+ hrs)": false
       },
       "Mental Health": {
