@@ -5,9 +5,11 @@
       "1 wealth action"
     ],
     "Health": [
-      "Exercise",
+      "Cardio",
+      "Resistance",
       "Intermittent fasting",
-      "No caffeine after 2pm"
+      "No caffeine after 2pm",
+      "Consistent wake/sleep time"
     ],
     "Spirit": [
       "Create / contemplate / experience"
@@ -21,9 +23,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": true
+        "No caffeine after 2pm": true,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -35,9 +39,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": true
+        "No caffeine after 2pm": true,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -49,9 +55,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -63,9 +71,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": true
+        "No caffeine after 2pm": true,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -77,9 +87,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -91,9 +103,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -105,9 +119,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -119,9 +135,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -133,9 +151,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -147,9 +167,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -161,9 +183,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -175,9 +199,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -189,9 +215,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -203,9 +231,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -217,9 +247,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -231,9 +263,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -245,9 +279,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -259,9 +295,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -273,9 +311,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": true
+        "No caffeine after 2pm": true,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -287,9 +327,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -301,9 +343,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -315,9 +359,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -329,9 +375,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -343,9 +391,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -357,9 +407,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -371,9 +423,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -385,9 +439,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -399,9 +455,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -413,9 +471,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -427,9 +487,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -441,9 +503,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -455,9 +519,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -469,9 +535,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -483,9 +551,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -497,9 +567,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -511,9 +583,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -525,9 +599,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -539,9 +615,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -553,9 +631,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -567,9 +647,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -581,9 +663,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -595,9 +679,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -609,9 +695,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -623,9 +711,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -637,9 +727,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -651,9 +743,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -665,9 +759,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -679,9 +775,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -693,9 +791,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -707,9 +807,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -721,9 +823,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -735,9 +839,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -749,9 +855,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -763,9 +871,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -777,9 +887,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -791,9 +903,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -805,9 +919,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -819,9 +935,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -833,9 +951,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -847,9 +967,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -861,9 +983,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -875,9 +999,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -889,9 +1015,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -903,9 +1031,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -917,9 +1047,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -931,9 +1063,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -945,9 +1079,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -959,9 +1095,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -973,9 +1111,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -987,9 +1127,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -1001,9 +1143,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -1015,9 +1159,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -1029,9 +1175,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -1043,9 +1191,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -1057,9 +1207,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -1071,9 +1223,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -1085,9 +1239,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -1099,9 +1255,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -1113,9 +1271,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -1127,9 +1287,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -1141,9 +1303,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -1155,9 +1319,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -1169,9 +1335,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -1183,9 +1351,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -1197,9 +1367,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -1211,9 +1383,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -1225,9 +1399,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -1239,9 +1415,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -1253,9 +1431,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -1267,9 +1447,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -1281,9 +1463,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -1295,9 +1479,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -1309,9 +1495,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -1323,9 +1511,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -1337,9 +1527,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -1351,9 +1543,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -1365,9 +1559,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -1379,9 +1575,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -1393,9 +1591,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -1407,9 +1607,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -1421,9 +1623,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -1435,9 +1639,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -1449,9 +1655,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -1463,9 +1671,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -1477,9 +1687,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -1491,9 +1703,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -1505,9 +1719,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -1519,9 +1735,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -1533,9 +1751,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -1547,9 +1767,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -1561,9 +1783,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -1575,9 +1799,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -1589,9 +1815,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -1603,9 +1831,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -1617,9 +1847,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -1631,9 +1863,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -1645,9 +1879,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -1659,9 +1895,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -1673,9 +1911,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -1687,9 +1927,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -1701,9 +1943,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -1715,9 +1959,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -1729,9 +1975,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -1743,9 +1991,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -1757,9 +2007,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -1771,9 +2023,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -1785,9 +2039,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -1799,9 +2055,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -1813,9 +2071,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -1827,9 +2087,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -1841,9 +2103,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -1855,9 +2119,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -1869,9 +2135,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -1883,9 +2151,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -1897,9 +2167,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -1911,9 +2183,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -1925,9 +2199,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -1939,9 +2215,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -1953,9 +2231,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -1967,9 +2247,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -1981,9 +2263,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -1995,9 +2279,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -2009,9 +2295,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -2023,9 +2311,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -2037,9 +2327,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -2051,9 +2343,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -2065,9 +2359,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -2079,9 +2375,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -2093,9 +2391,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -2107,9 +2407,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -2121,9 +2423,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -2135,9 +2439,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -2149,9 +2455,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -2163,9 +2471,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -2177,9 +2487,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -2191,9 +2503,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -2205,9 +2519,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -2219,9 +2535,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -2233,9 +2551,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -2247,9 +2567,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -2261,9 +2583,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -2275,9 +2599,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -2289,9 +2615,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -2303,9 +2631,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -2317,9 +2647,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -2331,9 +2663,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -2345,9 +2679,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -2359,9 +2695,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -2373,9 +2711,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -2387,9 +2727,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -2401,9 +2743,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -2415,9 +2759,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -2429,9 +2775,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -2443,9 +2791,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -2457,9 +2807,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -2471,9 +2823,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -2485,9 +2839,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -2499,9 +2855,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -2513,9 +2871,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -2527,9 +2887,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -2541,9 +2903,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -2555,9 +2919,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -2569,9 +2935,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -2583,9 +2951,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -2597,9 +2967,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -2611,9 +2983,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -2625,9 +2999,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -2639,9 +3015,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -2653,9 +3031,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -2667,9 +3047,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -2681,9 +3063,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -2695,9 +3079,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -2709,9 +3095,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -2723,9 +3111,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -2737,9 +3127,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -2751,9 +3143,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -2765,9 +3159,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -2779,9 +3175,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -2793,9 +3191,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -2807,9 +3207,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -2821,9 +3223,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -2835,9 +3239,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -2849,9 +3255,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -2863,9 +3271,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -2877,9 +3287,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -2891,9 +3303,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -2905,9 +3319,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -2919,9 +3335,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -2933,9 +3351,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -2947,9 +3367,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -2961,9 +3383,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -2975,9 +3399,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -2989,9 +3415,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -3003,9 +3431,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -3017,9 +3447,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -3031,9 +3463,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -3045,9 +3479,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -3059,9 +3495,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -3073,9 +3511,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -3087,9 +3527,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -3101,9 +3543,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -3115,9 +3559,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -3129,9 +3575,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -3143,9 +3591,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -3157,9 +3607,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -3171,9 +3623,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -3185,9 +3639,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -3199,9 +3655,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -3213,9 +3671,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -3227,9 +3687,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -3241,9 +3703,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -3255,9 +3719,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -3269,9 +3735,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -3283,9 +3751,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -3297,9 +3767,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -3311,9 +3783,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -3325,9 +3799,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -3339,9 +3815,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -3353,9 +3831,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -3367,9 +3847,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -3381,9 +3863,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -3395,9 +3879,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -3409,9 +3895,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -3423,9 +3911,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -3437,9 +3927,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -3451,9 +3943,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -3465,9 +3959,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -3479,9 +3975,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -3493,9 +3991,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -3507,9 +4007,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -3521,9 +4023,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -3535,9 +4039,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -3549,9 +4055,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -3563,9 +4071,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -3577,9 +4087,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -3591,9 +4103,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -3605,9 +4119,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -3619,9 +4135,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -3633,9 +4151,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -3647,9 +4167,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -3661,9 +4183,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -3675,9 +4199,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -3689,9 +4215,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -3703,9 +4231,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -3717,9 +4247,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -3731,9 +4263,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -3745,9 +4279,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -3759,9 +4295,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -3773,9 +4311,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -3787,9 +4327,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -3801,9 +4343,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -3815,9 +4359,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -3829,9 +4375,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -3843,9 +4391,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -3857,9 +4407,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -3871,9 +4423,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -3885,9 +4439,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -3899,9 +4455,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -3913,9 +4471,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -3927,9 +4487,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -3941,9 +4503,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -3955,9 +4519,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -3969,9 +4535,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -3983,9 +4551,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -3997,9 +4567,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -4011,9 +4583,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -4025,9 +4599,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -4039,9 +4615,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -4053,9 +4631,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -4067,9 +4647,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -4081,9 +4663,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -4095,9 +4679,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -4109,9 +4695,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -4123,9 +4711,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -4137,9 +4727,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -4151,9 +4743,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -4165,9 +4759,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -4179,9 +4775,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -4193,9 +4791,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -4207,9 +4807,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -4221,9 +4823,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -4235,9 +4839,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -4249,9 +4855,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -4263,9 +4871,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -4277,9 +4887,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -4291,9 +4903,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -4305,9 +4919,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -4319,9 +4935,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -4333,9 +4951,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -4347,9 +4967,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -4361,9 +4983,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -4375,9 +4999,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -4389,9 +5015,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -4403,9 +5031,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -4417,9 +5047,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -4431,9 +5063,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -4445,9 +5079,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -4459,9 +5095,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -4473,9 +5111,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -4487,9 +5127,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -4501,9 +5143,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -4515,9 +5159,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -4529,9 +5175,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -4543,9 +5191,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -4557,9 +5207,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -4571,9 +5223,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -4585,9 +5239,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
@@ -4599,9 +5255,11 @@
         "1 wealth action": false
       },
       "Health": {
-        "Exercise": false,
+        "Cardio": false,
+        "Resistance": false,
         "Intermittent fasting": false,
-        "No caffeine after 2pm": false
+        "No caffeine after 2pm": false,
+        "Consistent wake/sleep time": false
       },
       "Spirit": {
         "Create / contemplate / experience": false
