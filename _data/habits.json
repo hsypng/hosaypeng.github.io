@@ -359,7 +359,7 @@
         "1 wealth action": false
       },
       "Health": {
-        "Cardio": false,
+        "Cardio": true,
         "Resistance": false,
         "Intermittent fasting": false,
         "No caffeine after 2pm": false,
