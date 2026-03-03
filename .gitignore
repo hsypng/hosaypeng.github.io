@@ -9,3 +9,4 @@ _legacy_backup/
 .obsidian/
 
 __pycache__/
+.bundle/
