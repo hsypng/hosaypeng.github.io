@@ -20,11 +20,12 @@ CHECKBOX_RE = re.compile(r"^- \[([ xX])\] (.+)$")
 
 
 def find_habits_file() -> Path:
-  """Find all_habits.md by searching the vault."""
-  for match in VAULT_DIR.rglob("all_habits.md"):
-    if ".trash" not in match.parts:
-      return match
-  print(f"Error: all_habits.md not found in {VAULT_DIR}")
+  """Find the most recent all_habits*.md by searching the vault."""
+  matches = sorted(VAULT_DIR.rglob("all_habits*.md"))
+  matches = [m for m in matches if ".trash" not in m.parts]
+  if matches:
+    return matches[-1]  # most recent yearly file (alphabetically last)
+  print(f"Error: no all_habits*.md files found in {VAULT_DIR}")
   raise SystemExit(1)
 
 
