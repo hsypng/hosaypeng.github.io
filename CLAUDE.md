@@ -39,7 +39,7 @@ Jekyll static site hosted on GitHub Pages. Minimalist, text-focused personal sit
 ## Related Repos
 
 - **Obsidian vault** (`~/Library/Mobile Documents/iCloud~md~obsidian/Documents/`) — Source of `all_habits.md` which feeds the habits pipeline.
-- **peng-ai** (`~/Library/Mobile Documents/com~apple~CloudDocs/Documents/Code/peng-ai/`) — Slack bot that reads habits data and sends reminders.
+- **peng-ai** (`~/Code/peng-ai/`) — Slack bot that reads habits data and sends reminders.
 
 ## Habits Pipeline
 
