@@ -1,4 +1,3 @@
-# Ho Say Peng
 
 Personal blog and project site built with Jekyll, hosted on GitHub Pages.
 
