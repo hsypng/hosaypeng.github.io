@@ -20,8 +20,10 @@ feed:
 
 exclude:
   - _legacy_backup
+  - CLAUDE.md
   - Gemfile
   - Gemfile.lock
+  - GEMINI.md
   - README.md
   - node_modules
 
