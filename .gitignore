@@ -9,4 +9,5 @@ _legacy_backup/
 .obsidian/
 
 __pycache__/
+_data/habits.json
 .bundle/
